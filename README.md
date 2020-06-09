@@ -1,3 +1,3 @@
 # Arduino Projecto EAC
  2D Multiplayer Pong Game
-![GitHub Logo](/eac)
+![Alt Text](/eac)
